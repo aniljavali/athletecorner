@@ -1,0 +1,23 @@
+# app-ads.txt for Athlete Corner
+# This file declares authorized digital selling for this mobile app
+# For more information, visit: https://iabtechlab.com/app-ads-txt/
+
+# Google AdMob - Publisher ID: pub-1675898913310402
+# Used for interstitial ads in iOS app
+google.com, pub-1675898913310402, DIRECT, f08c47fec0942fa0
+
+# Ad Unit IDs configured in the app:
+# iOS Production: ca-app-pub-1675898913310402/5805378835
+# Android Production: ca-app-pub-1675898913310402/4727643068
+# Test Ad Units: ca-app-pub-3940256099942544/* (used in dev/debug builds)
+
+# DEPLOYMENT INSTRUCTIONS:
+# 1. Host this file at: https://your-domain.com/app-ads.txt
+# 2. Replace "your-domain.com" with your actual website domain
+# 3. Ensure the domain matches what's configured in:
+#    - AdMob account settings
+#    - Google Play Console (Android)
+#    - App Store Connect (iOS)
+# 4. The file must be accessible via HTTPS
+# 5. Content-Type should be "text/plain"
+# 6. File should be publicly accessible (no authentication required)
